@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/macrostates-and-microstates/","title":"Macrostates and microstates","noteIcon":"1","created":"2023-07-08T14:23:51.758-04:00","updated":"2023-07-21T19:13:19.756-04:00"}
+{"dg-publish":true,"permalink":"/macrostates-and-microstates/","title":"Macrostates and microstates","noteIcon":"1","created":"2023-07-08T14:23:51.758-04:00","updated":"2023-07-29T12:33:17.357-04:00"}
 ---
 
 
@@ -17,4 +17,4 @@ The first law thermodynamics state that the total energy of an isolated system m
 
 The total energy of a system is a macrostate that can be achieved through numerous microstates. The energy of individual particles may fluctuate within the system, but since all of these microstates are associated with a single macrostate, it appears macroscopically the same.
 
-[^1]: This is of course assuming that all microstates are equally likely at every time step.
+[^1]: This is assuming that all microstates are equally likely at every time step.
